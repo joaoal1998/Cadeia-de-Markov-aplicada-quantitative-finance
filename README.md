@@ -61,7 +61,7 @@ O sistema gera um dashboard interativo com 4 painéis:
 
 ### 📊 Resultados
 
-![Dashboard Principal](https://github.com/joaoal1998/Cadeias-de-Markov/blob/main/resultados_markov.png)
+![Dashboard Principal](https://github.com/joaoal1998/Cadeia-de-Markov-aplicada-quantitative-finance/blob/main/resultados_markov.png)
 *Dashboard completo com os 4 painéis de análise*
 
 ## 📋 Métricas Calculadas
